@@ -1,0 +1,25 @@
+bool solveNQ(int row)
+    # define size as the number of queens
+    if row >= size then
+        return True
+    for col <- 1 to n
+        if (row, col) is a safe position
+            place a queen at (row,col)
+            if solveNQ(row + 1) then
+                return True
+            else
+                remove queen from (row, col)
+    return False
+
+
+solveNQ(int row)
+    # define size as the number of queens
+    if row >= size then
+        print a solution
+        return
+    for col <- 1 to n
+        if (row, col) is a safe position
+            place a queen at (row,col)
+            solveNQ(row + 1)
+            remove queen from (row, col)
+    return

@@ -62,7 +62,7 @@ for i in n:
 popt, pcov = curve_fit(func, n, T)  # 进行参数拟合
 plt.title('MergeSort')
 plt.scatter(n, T, marker='x', color='red', s=40)
-plt.plot(n, func(n, *popt), label='f(x) = n*log(n)')
+plt.plot(n, func(n, *popt), label='f(x) = n*log(n)') # popt 为返回的参数向量
 plt.legend()
 plt.show()
 
