@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97107388-8a9e-4506-80f3-c78c89ffed50" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Assignment1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment1/KnapsackProblem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment1/Multiple KP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment2/Practical.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nqueen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pseudocode" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CountSort/.idea/CountSort.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../CountSort/.idea/CountSort.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CountSort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CountSort/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CountSort/SongsSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CountSort/SongsSort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CountSort/countSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CountSort/countSort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CountSort/zj.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CountSort/zj.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MergeSort/MergeSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/../MergeSort/MergeSort.py" afterDir="false" />
-    </list>
+    <list default="true" id="97107388-8a9e-4506-80f3-c78c89ffed50" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/Nqueen.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="110">
-              <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -59,6 +46,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -70,7 +58,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -133,11 +120,12 @@
       <workItem from="1606198975123" duration="4611000" />
       <workItem from="1606207265325" duration="25000" />
       <workItem from="1606282473321" duration="8750000" />
+      <workItem from="1606307117984" duration="610000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13634000" />
+    <option name="totallyTimeSpent" value="14244000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -152,7 +140,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -189,7 +177,7 @@
     <entry file="file://$PROJECT_DIR$/Nqueen.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
-          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
         </state>
       </provider>
     </entry>

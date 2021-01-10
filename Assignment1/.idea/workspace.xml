@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="706f3c7b-08c8-425e-b539-f65c1587cf62" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KnapsackProblem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multiple KP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment2/Practical.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NqueenProblem/Nqueen.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CountSort/.idea/CountSort.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../CountSort/.idea/CountSort.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CountSort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CountSort/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CountSort/SongsSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CountSort/SongsSort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CountSort/countSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CountSort/countSort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CountSort/zj.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CountSort/zj.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MergeSort/MergeSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/../MergeSort/MergeSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../subsumProblem/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NqueenProblem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NqueenProblem/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../subsumProblem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../subsumProblem/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../subsumProblem/subsum.py" beforeDir="false" afterPath="$PROJECT_DIR$/../subsumProblem/subsum.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +16,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Assignment1$KnapsackProblem.coverage" NAME="KnapsackProblem Coverage Results" MODIFIED="1604574168920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Assignment1$Multiple_KP.coverage" NAME="Multiple KP Coverage Results" MODIFIED="1606023679886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Assignment1$Multiple_KP.coverage" NAME="Multiple KP Coverage Results" MODIFIED="1606393455366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -38,8 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Multiple KP.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+            <state relative-caret-position="342">
+              <caret line="228" column="27" selection-start-line="228" selection-start-column="27" selection-end-line="228" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -85,7 +79,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -96,6 +90,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -103,18 +98,22 @@
               <item name="Assignment1" type="b2602c69:ProjectViewProjectNode" />
               <item name="Assignment1" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Assignment1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../FlaskProject" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -199,22 +198,25 @@
       <workItem from="1606207294130" duration="3000" />
       <workItem from="1606208181531" duration="2939000" />
       <workItem from="1606282437694" duration="19000" />
+      <workItem from="1606385167533" duration="3793000" />
+      <workItem from="1606536520681" duration="1345000" />
+      <workItem from="1606701534608" duration="1168000" />
+      <workItem from="1606702745780" duration="16000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51549000" />
+    <option name="totallyTimeSpent" value="57871000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25929978" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21055438" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30777657" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.659436" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -284,8 +286,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Multiple KP.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        <state relative-caret-position="342">
+          <caret line="228" column="27" selection-start-line="228" selection-start-column="27" selection-end-line="228" selection-end-column="27" />
         </state>
       </provider>
     </entry>
