@@ -1,3 +1,5 @@
+import sys
+
 def subset_sum(A,k=0):
     for i in range(1,2**len(A)):
         pick=list(mask(A,bin(i)[2:]))
@@ -13,10 +15,15 @@ def mask(A,m):
     # m=m.zfill(len(A))
     # return map(lambda x:x[0], filter(lambda x:x[1]!='0',zip(A,m)))
 
-# A=[-7,-3,-2,5,2,8]
-# print(list(subset_sum(A)))
+A=[-7,-3,-2,5,2,8]
+it=subset_sum(A)
+# print(list(it))
+while True:
+    try:
+        print (next(it), end=" ")
+    except StopIteration:
+        sys.exit()
 
-# for i from 1 to 2^n-1
 #     subset = []
 #     str=Binary(i) #将i转换成二进制字符串
 #     for word in str
